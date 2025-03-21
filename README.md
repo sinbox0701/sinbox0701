@@ -43,11 +43,6 @@
 
 - Email: psh0909053@gmail.com
 
----
-
-### 🧑‍💻 Level Up
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinbox0701&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **sinbox0701/sinbox0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
