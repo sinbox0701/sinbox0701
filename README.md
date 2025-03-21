@@ -39,7 +39,7 @@
 ---
 
 ### 📬 Contact
-- Contact: [![instgram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woong._.zzi)](https://www.instagram.com/woong._.zzi)
+- Contact: [![instgram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woong.__.zzi)](https://www.instagram.com/woong.__.zzi)
 
 - Email: psh0909053@gmail.com
 
