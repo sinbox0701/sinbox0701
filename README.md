@@ -2,7 +2,7 @@
 - 백엔드 개발을 담당하는 개발자입니다.
 - 효율적인 설계와 클린 코드에 대해 끊임없이 고민합니다.
 - 원활한 소통과 협업을 잘하는 개발자가 되기 위해 노력합니다.
-  
+
 ---
 
 ### 💼 Experience
@@ -42,6 +42,14 @@
 - Contact: [![WoongZzi](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woong.__.zzi)](https://www.instagram.com/woong.__.zzi)
 
 - Email: psh0909053@gmail.com
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sinbox0701&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sinbox0701"
+    width="600"
+    height="120"
+  />
+</a>
 
 <!--
 **sinbox0701/sinbox0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
