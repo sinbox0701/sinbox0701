@@ -39,7 +39,7 @@
 ---
 
 ### 📬 Contact
-- Contact: [![카카오톡](https://img.shields.io/badge/박기웅-%23F7B731?logo=kakao&logoColor=black&style=flat)](http://qr.kakao.com/talk/5u8t5zGI6BLZU2uoPvETqD4nFwk-)
+- Contact: [![instgram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woong._.zzi)](https://www.instagram.com/woong._.zzi)
 
 - Email: psh0909053@gmail.com
 
