@@ -6,7 +6,7 @@
 ---
 
 ### 💼 Experience
-- **ENKI ([OFFen-CAMP](https://www.enki.co.kr/product/offencamp) | [OFFen-PTAAS](https://www.enki.co.kr/product/offenptaas))**  
+- **ENKI ([OFFen-CAMP](https://www.enki.co.kr/product/offencamp))**  
   - **Position**: 백엔드 개발
   - **Period**: 2023. 12 ~ Present
   
