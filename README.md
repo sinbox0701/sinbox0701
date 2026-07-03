@@ -16,7 +16,7 @@
 
 #### 📦 대표 프로젝트
 
-**[nestjs-architecture](https://github.com/sinbox0701/template)** — 도메인 비종속 NestJS 백엔드 스타터
+**[nestjs-architecture](https://github.com/sinbox0701/nestjs-architecture)** — 도메인 비종속 NestJS 백엔드 스타터
 > 4-레이어 아키텍처를 **CI가 기계적으로 강제**(dependency-cruiser) · 3-tier RBAC/ABAC 접근제어 · 마이그레이션 드리프트 가드 · `.claude/` **AI 협업 하네스**(SDD 파이프라인)
 > 📖 읽기 가이드: [Backend Template Guide](https://dark-agenda-1b4.notion.site/Backend-Template-Guide-384222cff3e1801f9be5d39b7eb51ccb)
 
